@@ -23,6 +23,7 @@ Este projeto foi criado com fins educacionais e para compor meu portfólio pesso
 - Tailwind CSS (via CDN)
 
 ## 💻 Preview
+![image](https://github.com/user-attachments/assets/e2edcbd3-2044-4a74-8b68-84c7b168e921)
 
 
 
